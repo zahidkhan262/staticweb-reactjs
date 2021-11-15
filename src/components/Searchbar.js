@@ -13,7 +13,7 @@ const Searchbar = () => {
                             </div>
 
 
-                            <form className="w-50 m-auto my-3">
+                            <form className="m-auto my-3">
 
                                 <div className="input-card d-flex rounded-pill">
                                     <input type="text" className="form-control form-control-lg" placeholder="Enter email" aria-label="Enter email" />
