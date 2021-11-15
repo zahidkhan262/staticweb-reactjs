@@ -3,7 +3,7 @@ import React from 'react'
 const Searchbar = () => {
     return (
         <>
-            <div className="bg1-light">
+            <div className="searchbg">
                 <div className="container content-space-2">
                     <div className="text-center mx-md-auto">
                         <div className="row justify-content-lg-between">
