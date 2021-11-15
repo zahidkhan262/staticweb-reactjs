@@ -209,7 +209,7 @@ cursor: pointer;
 
 
 /* subscribe button */
-.bg1-light{
+.searchbg{
   background: var(--dark-gray);
   width: 100%;
   padding: 40px 0;
