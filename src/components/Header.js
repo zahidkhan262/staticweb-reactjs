@@ -10,7 +10,7 @@ export const logo = './images/logo.svg';
 const Header = () => {
     return (
         <>
-            <Navbar bg="light" expand="lg" fixed="top">
+            <Navbar bg="dark" expand="lg" fixed="top">
                 <Container>
 
 
